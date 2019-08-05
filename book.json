@@ -1,0 +1,12 @@
+{
+	"title" : "PyToolsIP-Gitbook",
+	"author" : "梦心DH",
+	"description" : "Python工具集成平台（Python Tools Integrated Platform）【文档】",
+	"language" : "zh-hans",
+	"links" : {
+		"sidebar" : {
+			"Home" : "http://jimdreamheart.club/pytoolsip"
+		}
+	},
+	"plugins" : ["toggle-chapters"]
+}
