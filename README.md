@@ -9,4 +9,4 @@ Python工具集成平台（Python Tools Integrated Platform）【文档】
 
 该文档主要内容：  
   * [平台指南](./guide/README.md)
-  * [项目文档](./project/README.md)
+  * [接口文档](./interface/README.md)
