@@ -5,7 +5,7 @@
 必须确保网络正常连接。
 
 ## 下载安装器
-  * 平台官网首页，直接点击下载[PyToolsIP Installer]。
+  * 通过浏览器打开[平台官网首页](http://jimdreamheart.club/pytoolsip)，直接点击【下载安装程序】按钮进行下载。
 
 ## 运行安装器
   * 双击运行安装程序。
