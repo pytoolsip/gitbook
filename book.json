@@ -1,12 +1,29 @@
 {
-	"title" : "PyToolsIP-Gitbook",
+	"title" : "PyToolsIP-Wiki",
 	"author" : "梦心DH",
 	"description" : "Python工具集成平台（Python Tools Integrated Platform）【文档】",
 	"language" : "zh-hans",
 	"links" : {
 		"sidebar" : {
-			"Home" : "http://jimdreamheart.club/pytoolsip"
+			"Home" : "https://ptip.jdreamheart.com"
 		}
 	},
-	"plugins" : ["toggle-chapters"]
+	"plugins" : ["favicon", "expandable-chapters", "splitter", "github", "hide-element", "back-to-top-button", "mathjax"],
+	"pluginsConfig" : {
+		"favicon": {
+			"shortcut": "dzjh.ico",
+            "bookmark": "dzjh.ico",
+            "appleTouch": "dzjh.ico",
+            "appleTouchMore": {
+                "120x120": "dzjh.ico",
+                "180x180": "dzjh.ico"
+            }
+		},
+		"github": {
+			"url": "https://github.com/pytoolsip/gitbook"
+		},
+		"hide-element": {
+			"elements": [".gitbook-link"]
+		}
+	}
 }
