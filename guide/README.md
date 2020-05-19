@@ -7,4 +7,5 @@
   * [平台安装指南](./ptip_installer.md)
   * [平台使用指南](./ptip_usage.md)
   * [工具开发指南](./tool_development.md)
-  * [工具发布步骤](./tool_release.md)
+  * [工具发布指南](./tool_release.md)
+  * [平台文章内容](./article_content.md)

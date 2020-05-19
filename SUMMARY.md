@@ -7,7 +7,8 @@
     * [平台安装指南](guide/ptip_installer.md)
     * [平台使用指南](guide/ptip_usage.md)
     * [工具开发指南](guide/tool_development.md)
-    * [工具发布步骤](guide/tool_release.md)
+    * [工具发布指南](guide/tool_release.md)
+    * [平台文章内容](guide/article_content.md)
 
 -----
 * [接口文档](interface/README.md)
