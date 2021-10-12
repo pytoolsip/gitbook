@@ -183,8 +183,8 @@ _GG("BehaviorManager").unbindBehavior(obj, behavior);
 from _Global import _GG;
 
 # 绑定组件
-behavior = _GG("BehaviorManager").extendBehavior(obj);
-obj.bindBehavior({"path" : "temp/TempBehavior", "basePath" : _GG("g_CommonPath") + "behavior\\"});
+_GG("BehaviorManager").extendBehavior(obj);
+behavior = obj.bindBehavior({"path" : "temp/TempBehavior", "basePath" : _GG("g_CommonPath") + "behavior\\"});
 
 behaviorId = behavior.getBehaviorId();
 
