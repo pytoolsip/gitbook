@@ -1,9 +1,25 @@
-# 工具发布步骤
-  * 工具发布官网：[http://jimdreamheart.club/pytoolsip/release](http://jimdreamheart.club/pytoolsip/release)
+# 工具发布指南
+  * 工具发布官网：[ptip.jdreamheart.com/release](https://ptip.jdreamheart.com/release)
 
 ----
 
-## 上传新工具
+## 1. 发布新工具
+
+注意所依赖平台的版本。  
+
+## 2. 操作已发布工具
+
+### 2.1 更新工具版本
+
+允许更改所依赖平台的版本。
+
+### 2.2 下架工具
+
+### 2.3 更新工具详情
 
 
-## 更新已上传工具
+## 3. 工具发布审核
+在工具发布或更新之后，需要等待平台管理员进行审核。  
+
+在审核期间，用户可以撤回所要发布的工具。  
+需要注意的是，不允许更新已在审核中的工具版本，除非先将审核中的工具撤回。  
